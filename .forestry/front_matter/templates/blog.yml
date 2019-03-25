@@ -12,6 +12,9 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: datetime
+  name: publishdate
+  label: Publishdate
 - type: file
   name: images
   label: Images
@@ -30,9 +33,6 @@ fields:
   type: boolean
   hidden: false
   default: ''
-- type: datetime
-  name: publishdate
-  label: Publishdate
 pages:
 - content/blog/openspace3d-partenaire-du-projet-européen-parthenos.md
 - content/blog/openspace3d-récompensé-par-un-award-sur-la-sécurité-incendie-attentat.md
