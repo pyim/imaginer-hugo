@@ -25,3 +25,5 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+pages:
+- content/blog/le-lundi-25-février-2019-i-maginer-lance-i-maginelab-le-nouveau-lieu-d-apprentissage-créatif-pour-les-inventeurs-de-demain.md
