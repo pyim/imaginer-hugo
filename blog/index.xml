@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on i-maginer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Wed, 20 Feb 2019 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://i-maginer.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OpenSpace3D partenaire du projet européen PARTHENOS.</title>
+      <link>https://i-maginer.com/blog/openspace3d-partenaire-du-projet-europ%C3%A9en-parthenos/</link>
+      <pubDate>Thu, 28 Feb 2019 23:00:00 +0000</pubDate>
+      
+      <guid>https://i-maginer.com/blog/openspace3d-partenaire-du-projet-europ%C3%A9en-parthenos/</guid>
+      <description>Dans le cadre du projet européen PARTHENOS, le consortium 3D-SHS (TGIR Huma-Num), Inria et le CNR ont organisé, avec le soutien du laboratoire commun CNRS-MAP/CNR-ISTI, un atelier sur les objets 3D : Share — Publish — Store — Preserve.</description>
+    </item>
     
     <item>
       <title>Le lundi 25 février 2019, I-Maginer lance I-MagineLab, le nouveau lieu d’apprentissage créatif pour les inventeurs de demain.</title>
