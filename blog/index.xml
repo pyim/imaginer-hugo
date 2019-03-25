@@ -38,5 +38,14 @@
       <description>Le lundi 25 février 2019, I-Maginer lance I-MagineLab, le nouveau lieu d’apprentissage créatif pour les inventeurs de demain !</description>
     </item>
     
+    <item>
+      <title>Fourth</title>
+      <link>https://i-maginer.com/blog/premier/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
+      
+      <guid>https://i-maginer.com/blog/premier/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+    
   </channel>
 </rss>
