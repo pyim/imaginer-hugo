@@ -31,5 +31,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/blog/openspace3d-récompensé-par-un-award-sur-la-sécurité-incendie-attentat.md
 - content/blog/openspace3d-partenaire-du-projet-européen-parthenos.md
 - content/blog/le-lundi-25-février-2019-i-maginer-lance-i-maginelab-le-nouveau-lieu-d-apprentissage-créatif-pour-les-inventeurs-de-demain.md
