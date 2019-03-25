@@ -1,0 +1,19 @@
+<!-- begin post -->
+
+    <article>
+        <a href="{{ .URL }}">
+            {{with .Params.image}}
+                <img class="img-fluid" src="{{ . | urlize | relURL }}" alt="A thumbnail image">
+            {{end}}                
+        </a>   
+          <div class="text">
+            <a href="{{ .URL }}"><h3>{{ .Title }}</h3></a>
+            <p>{{ .Description | markdownify }}</p>   
+            <span>{{ .Params.Categories }}</span> - 
+            <span class="post-date">{{ dateFormat "2 Jan, 2006" .PublishDate }} </span>
+        </div>
+    </article>
+
+
+     
+<!-- end post -->
