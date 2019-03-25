@@ -1,0 +1,29 @@
+---
+label: blog
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: publishdate
+  label: Publishdate
+  type: datetime
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
